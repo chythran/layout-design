@@ -1,0 +1,564 @@
+.container
+{
+	margin: 0 auto 0 auto;
+	width: 1200px;
+}
+.background
+{
+	background-image:  url("../images/finance.jpg");
+	height: 1000px;
+}
+.sub-background
+{
+	margin-top: 40px;
+	margin-right: 40px;
+}
+.icons
+{
+	padding-left: 40px;
+	display: flex;
+	padding-left: 150px;
+}
+.icons img{
+	width: 15px;
+	height: 15px;
+}
+.icon img{
+	width: 15px;
+	height: 15px;
+}
+.icon2
+{
+   padding-left: 40px;
+}
+.icon3
+{
+	padding-left: 40px;
+}
+.sub-background
+{
+	height: 50px;
+	background-color: white;
+	width: 80%;
+	padding-left: 50px;
+	margin-left: 120px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+
+}
+.right-icon
+{
+	padding-left: 50px;
+}
+
+.navbar li 
+{
+	
+	float: left;
+	font-size: 30px;
+	padding-left: 30px;
+	 list-style-type: none;
+
+}
+ .nav a
+{
+	text-decoration: none;
+}
+
+
+.button
+{
+	padding-left: 230px;
+}
+.title-img {
+	float: left;
+	padding-right: 1px;
+	padding-bottom: 20px;
+}
+
+.title-name {
+	float: left;
+	color: blue;
+
+}
+ h1
+{
+	padding-bottom: 30px;
+}
+
+
+
+.logo img {
+	width: 60px;
+}
+.right-icon
+{
+	display: flex;
+
+}
+.icon4
+{
+	padding-left: 50px;
+}
+.icon5
+{
+	padding-left: 10px;
+}
+.icon6
+{
+	padding-left: 10px;
+}
+.header
+{
+	padding-top: 200px;
+	padding-left: 30px; 
+	font-size: 30px;
+}
+.header h1
+{
+	color: white;
+
+}
+
+.header p
+{
+	color: white;
+	padding-left: : 100px;
+}
+
+
+
+#b1
+{
+	background-color: white;
+	border: none;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 40px;
+	width: 150px;
+	border: 3px solid white;
+	cursor: pointer;
+}
+
+.button-1{
+	color: white;
+	padding: 15px;
+	font-weight: bold;
+	background-color: transparent;
+	width: 150px;
+		cursor: pointer;
+
+
+}
+
+
+.tri1
+{
+	background-color: white;
+	height: 300px;
+	width: 350px;
+    
+
+}
+.tri1 img
+{
+	width: 30px;
+	height: 30px;
+	padding-left: 140px;
+	padding-top: 50px;
+}
+.tri1 h4
+{
+	padding-left: 90px;
+}
+.tri1 p
+{
+	padding-left:50px; 
+}
+.tri2
+{
+
+	color: white;
+	height: 300px;
+	width: 350px;
+	background-image:  url("../images/finance.jpg");
+}
+.tri3
+{
+	background-color: white;
+	height: 300px;
+	width: 350px;
+}
+.thries
+{
+	display: flex;
+	margin-left: 75px;
+	margin-top: -170px;
+
+
+}
+.tri2 img
+{
+	width: 30px;
+	height: 30px;
+	padding-left: 140px;
+	padding-top: 50px;
+}
+.tri2 h4
+{
+	padding-left: 90px;
+}
+.tri2 p
+{
+	padding-left:50px; 
+}
+.tri3 img
+{
+	width: 30px;
+	height: 30px;
+	padding-left: 140px;
+	padding-top: 50px;
+}
+.tri3 h4
+{
+	padding-left: 60px;
+}
+.tri3 p
+{
+	padding-left:50px; 
+}
+.thries1
+{
+   
+   display: flex;
+   margin-left: 75px;
+
+
+}
+.tri-2 img
+{
+	width: 350px;
+}
+.tri-1
+{
+	
+	height: 300px;
+	width: 350px;
+    
+
+}
+.tri-1 img
+{
+	width: 30px;
+	height: 30px;
+	padding-left: 30px;
+	padding-top: 50px;
+}
+.tri-1 h4
+{
+	padding-left: 90px;
+}
+.tri-1 p
+{
+	padding-left:50px; 
+}
+.tri-3
+{
+	
+	height: 300px;
+	width: 350px;
+    
+
+}
+.tri-3 img
+{
+	width: 30px;
+	height: 30px;
+	padding-left: 140px;
+	padding-top: 50px;
+}
+.tri-3 h4
+{
+	padding-left: 90px;
+}
+.tri-3 p
+{
+	padding-left:50px; 
+}
+.para
+{
+	
+	margin-top:-60px;
+}
+.tri-pic img
+{
+	width: 30px;
+	height: 30px;
+	
+}
+.tri-3 img
+{
+	width: 30px;
+	height: 30px;
+	padding-left: 30px;
+	padding-top: 50px;
+}
+.content-1
+{
+    background-image: url("../images/finance.jpg");
+	height: 500px;
+	margin-top:-50px;
+
+}
+.heading
+{
+	color: white;
+	font-size: 35px;
+	padding-left: 135px;
+}
+.ratings
+{
+	color: white;
+	display: flex;
+
+}
+.ratings h1
+{
+	font-size: 70px;
+	padding-left: 130px;
+
+}
+.rating-1  p
+{
+
+	
+	
+	padding-left: 100px;
+	margin-top: 140px;
+	margin-left:  -180px;
+}
+.rating-2 p
+{
+	padding-left: 100px;
+	margin-top: 140px;
+	margin-left:  -260px;
+}
+.sign p
+{
+	margin-top: -90px;
+	margin-left: 60px;
+
+}
+.round1 h1
+{
+	margin-left: 600px;
+	margin-top: 30px;
+	font-size: 100px;
+}
+.round2
+{
+	margin-left: 500px;
+	margin-top: -130px;
+}
+.para1
+{
+	color: purple;
+	margin-top: 40px;
+	margin-left: -450px;
+}
+.round-img
+{
+	margin-left: -45px;
+}
+.round-img1 img
+{
+    width: 70px;
+    height: 70px;
+    padding-right: 25px;
+    padding-left: 25px;
+    
+
+
+}
+.round-img2 img
+{
+    width: 100px;
+    height: 100px;
+}
+.request
+{
+	background-image: url("../images/finance.jpg");
+	margin-top: -20px;
+}
+.request p
+{
+  padding-right: 500px;
+}
+.para-2
+{
+	
+	margin-top: -50px;
+}
+.request-2
+{
+	
+    height: 300px;
+    width: 400px;
+    background-color: red;
+    padding-top: 50px;
+    color: white;
+    float: left;
+}
+.discuss
+{
+	background-image: url("../images/finance.jpg");
+}
+.call
+{
+	
+	width: 500px;
+	height: 400px;
+	color: white;
+	
+	
+} 
+.like{
+	
+	width: 600px;
+	height: 400px;
+	float: right;
+	margin-top: -400px;
+	margin-left: 200px;
+	padding-left: 150px;
+	padding-top: 50px;
+	text-align: left;
+	border: border white;
+
+
+}
+.help
+{
+	background-color: white;
+	width: 300px;
+	height: 50px;
+
+}
+.help1
+{
+	width: 300px;
+	height: 50px;
+	background-color: green;
+}
+.news{
+  height: 500px;
+  background-color: white;
+}
+
+
+.get {
+
+    color: #00529c;
+    margin-left: 18em;
+    font-weight: bold;
+    font-family: arial;
+    font-size: 27px;
+}
+
+
+.gallary > div {
+
+    width: 24%;
+    display: inline-block;
+    float: left;
+    
+
+}
+.galary-set img {
+    padding: 91px;
+    height: 196px;
+    width: 196px;
+}
+.galary-different {
+    margin-top: 122px;
+    margin-left: 20px;
+
+}
+ .paragrapha{
+  font-family: arial;
+  font-size: 16px;
+  color: #00529c;
+ }
+ .pre-end 
+ {
+ 	background-color: #e3e3e3;
+ 	
+ }
+ 	
+ .end-imag img
+ {
+ 	width: 100px;
+ 	height: 100px;
+    padding-left: 180px;
+ }
+.end
+{
+	background-image: url("../images/finance.jpg");
+	color: white;
+}
+
+
+.icon-image img
+{
+	width: 30px;
+	height: 30px;
+
+}
+
+
+.devide-4-part> div{
+	width: 24%;
+	display: inline-block;
+}
+.image-size-footer img
+{
+	width: 30px;
+	height: 30px;
+}
+.canara img
+{
+	width: 100px;
+	height: 100px;
+}
+.secondpart> div
+{
+	width: 12%;
+	display: inline-block;
+}
+.b2
+{
+	background-color: white;
+	border: none;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 40px;
+	width: 150px;
+	border: 3px solid white;
+	cursor: pointer;
+}
+.b3
+{
+
+	color: white;
+	padding: 15px;
+	font-weight: bold;
+	background-color: transparent;
+	width: 150px;
+		cursor: pointer;
+		margin-top: 20px;
+
+	
+	
+
+}
+
